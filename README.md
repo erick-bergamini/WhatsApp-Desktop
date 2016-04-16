@@ -1,7 +1,7 @@
 # Unofficial WhatsApp for Desktop *(DEPRECATED)*
 
 [![Join the chat at gitter.im/Aluxian/WhatsApp-Desktop](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Aluxian/WhatsApp-Desktop)
-[![Downloads](https://img.shields.io/github/downloads/Aluxian/WhatsApp-Desktop/latest/total.svg)](https://github.com/Aluxian/WhatsApp-Desktop/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Aluxian/WhatsApp-Desktop/total.svg)](https://github.com/Aluxian/WhatsApp-Desktop/releases/latest)
 
 WhatsApp for Desktop is now [Whatsie](https://github.com/Aluxian/Whatsie)! Head over to the new repository and help me make it awesome: https://github.com/Aluxian/Whatsie
 
