@@ -1,9 +1,26 @@
-# Unofficial WhatsApp for Desktop
+# Unofficial WhatsApp for Desktop *(DEPRECATED)*
 
 [![Join the chat at gitter.im/Aluxian/WhatsApp-Desktop](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Aluxian/WhatsApp-Desktop)
 [![Downloads](https://img.shields.io/github/downloads/Aluxian/WhatsApp-Desktop/latest/total.svg)](https://github.com/Aluxian/WhatsApp-Desktop/releases/latest)
 
-A simple & beautiful desktop client for WhatsApp which runs on OS X, Windows and Linux. Built with [NW.js](http://nwjs.io/). Not affiliated with WhatsApp or Facebook. This is **NOT** an official product. Read the [DISCLAIMER](https://github.com/Aluxian/WhatsApp-Desktop/blob/master/DISCLAIMER).
+WhatsApp for Desktop is now [Whatsie](https://github.com/Aluxian/Whatsie)! Head over to the new repository and help me make it awesome: https://github.com/Aluxian/Whatsie
+
+Here's what's new:
+
+- Improved performance and battery usage
+- More features and better UX
+
+Also:
+
+- Themes & Mini Mode
+- Native Notifications (with reply on OS X)
+- Spell Checker & Auto Correct
+- Keyboard Shortcuts
+- Launch on OS startup
+- Automatic Updates
+
+
+> Note: Whatsie is still in beta, so some things may not work as expected. If you're a dev, I'd love some help! Get in touch with me and the other devs on Gitter at [gitter.im/Aluxian/Whatsie](http://gitter.im/Aluxian/Whatsie)
 
 ![Cross-platform screenshot](screenshot.png)
 
